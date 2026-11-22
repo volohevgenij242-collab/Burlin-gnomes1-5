@@ -1,0 +1,6 @@
+{
+  "name": "Burglin' Gnomes",
+  "description": "Стелс-экшен от первого лица о крошечном гноме в огромном доме человека на Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
